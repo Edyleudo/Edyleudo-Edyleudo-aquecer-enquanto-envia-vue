@@ -9,8 +9,13 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "csv-writer": "^1.6.0",
+    "legacy-encoding": "^3.0.0",
     "sweetalert": "^2.1.2",
-    "vue": "^3.2.13"
+    "sweetalert2": "^11.9.0",
+    "vue": "^3.2.13",
+    "write-excel-file": "^1.4.27",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
