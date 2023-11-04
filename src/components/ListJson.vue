@@ -3,8 +3,6 @@
     <meta charset="utf8mb4" />
 
     <router-view></router-view>
-    <br />
-    <br />
     <label style="font-size: 20px">Lista de Telefones</label>
     <br />
     <textarea placeholder="Cole aqui sua lista de telefones" v-model="telefone" rows="10" cols="50" />

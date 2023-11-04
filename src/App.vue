@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img style="height: 100px;" alt="Vue logo" src="./assets/logo.png">
   <ListJson msg="Welcome to Your Vue.js App"/>
 </template>
 
