@@ -179,7 +179,7 @@
       var numeros = [];
       
       while (numeros.length < 3) {
-        var numeroAleatorio = Math.floor(Math.random() * 3); // Gera um número entre 0 e 2
+        var numeroAleatorio = Math.floor(Math.random() * 5); // Gera um número entre 0 e 4
         if (!numeros.includes(numeroAleatorio)) {
           numeros.push(numeroAleatorio);
         }
